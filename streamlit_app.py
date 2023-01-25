@@ -1,3 +1,5 @@
 import streamlit
 
-streamlit.title('My Parents New Healthy Dinner')
+streamlit.header('Burger Making')
+streamlit.title('Choose your base')
+streamlit.title('choose tikka')
